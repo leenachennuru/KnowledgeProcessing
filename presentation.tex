@@ -1,0 +1,149 @@
+% !TeX spellcheck = en_US
+\documentclass{beamer}
+\usepackage[latin1]{inputenc}
+\usepackage{dsfont}
+\usepackage{color}
+\usepackage{tabularx}
+
+% % % % % FRAME STYLE
+
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{frametitle}{\vspace{10mm}\hspace{0mm}\insertframetitle}
+\setbeamertemplate{footline}{\hfill\insertframenumber/\inserttotalframenumber\hspace{5mm}\vspace{5mm}}
+
+%\usefonttheme{professionalfonts}
+\usefonttheme{structurebold}
+\usecolortheme{dove}
+
+\AtBeginSection[]
+{
+	\begin{frame}
+		\frametitle{Agenda}
+		\tableofcontents[currentsection]
+	\end{frame}
+}
+
+% % % % % FRAMES
+
+\begin{document}
+
+	\title{Qualitative Spatial Reasoning over Line-Region Relations}
+	\author{Leena and Sibel}
+	\date{Knowledge Representation\\Seminar Presentation}
+
+	
+	\begin{frame}
+		\titlepage
+	\end{frame}
+	
+%	Qualitative Spatial Reasoning, Line-Region Relation, GIS (geographic information system),
+	
+	\section{Qualitative Spatial Relations}
+	
+	\begin{frame}
+		\begin{itemize}
+			\item practical need for a formal understanding of spatial relations within the realm of geographic information systems (GISs).
+			
+			\item in order to display, process, or analyze spatial information, users select data from a GIS by asking queries.
+			
+			\item Almost any GIS is based on spatial concepts. Many queries explicitly incorporate spatial relations to describe constraints about spatial objects to be analyzed or displayed
+			
+			\item of particular interest are the spatial constraints contained in queries expressed by spatial relations such as in, adjacent or within 10 miles.
+			
+			
+		\end{itemize}
+	\end{frame}
+	
+	\section{Line-Region Relations}
+	
+	\section{Conceptual Neighborhood Models}
+	
+	\subsection{Snapshot Model}
+	
+	\subsection{Smooth-Transition Model}
+	
+	\section{Comparison}
+	
+	\section{Summary}
+	
+	
+	\begin{frame}{References}  
+		\begin{thebibliography}{10}    
+%			\beamertemplatebookbibitems
+%			\bibitem{Diekert2013}
+%			V.~Diekert, M.~Kufleitner, G.~Rosenberger.
+%			\newblock {\em Diskrete Algebraische Methoden}. (Abschnitt 7.6)
+%			\newblock Walter de Gruyter, 2013.
+%			\beamertemplatearticlebibitems
+%			\bibitem{Heller2008}
+%			A.~Heller.
+%			\newblock Ein Entscheidungsverfahren für die Presburger Arithmetik.
+%			\newblock https://www4.in.tum.de/lehre/vorlesungen/perlen/SS08/\\Unterlagen/Presburger.pdf.
+		\end{thebibliography}
+	\end{frame}
+\end{document}
+
+%	%\section{Introduction}
+%	
+%	% look at eggenhofer1991 for introduction-relevant stuff
+%	
+%	% goal: the study of spatial relations aims at gaining a better understanding of the way people use them in everyday life - how they think about space and the relations among objects, and how they communicate about them - and at developing methods suitable for implementation in information systems.
+%	
+%	% cognitive science, linguistics, such investigations of spatial relations have demonstrated enormous practical relevance, for instance in the design and use of geographic information systems
+%	
+%	\begin{frame}{Motivation}
+%		GIS (Geographic information systems)
+%	\end{frame}
+%	
+%	\begin{frame}{Qualitative Spatial Reasoning}
+%		What is it? What is it good for?
+%	\end{frame}	
+%	
+%	\begin{frame}{Line-Region Relations}
+%		What can this be used for?
+%	\end{frame}
+%	
+%	
+%	% this paper investigates properties of topological relations, i.e., spatial relations that are preserved under continuous transformations, result from recent categorization.
+%	
+%	% the model for topological relations used in this paper distinguishes 19 different topological relations between a line and a region in $\mathds{R}^{2}$
+%	
+%	% goal: to design a computational model that determines for each topological relation those relations that are consequently closest to it. This model will be helpful in grouping topological relations according to their similarities, a task that is critical for the selection of appropriate terminology when people communicate with information systems about specific spatial configurations. The novel approach in this paper is the grouping of topologicla information, which implies a partial order over topological relations. This formal approach is complementary to human-subject tests about the use of spatial relations in natural languae.
+%	
+%	% goal: comparison of two different similarity models.
+%	
+%	%TODO Define conceptual neighborhood
+%	
+%	% \section{Background}
+%	
+%	\begin{frame}{Definitions}
+%		Define interior, boundary, exterior of point set (line, region)
+%	\end{frame}
+%	
+%	% 9-intersection for binary topological relations
+%	% brief summary of the model for topological relations
+%	\begin{frame}{9-Intersection}
+%		Inhalt...
+%	\end{frame}
+%	
+%	% \section{Conceptual Neighborhood of Line-Region Relations}
+%	% there are two models of conceptual neighborhoods among topoloical relations between a line and a region: 1) the snapshot model and 2) the smooth-transition model.
+%	
+%	% the first model compares two snapshots of a line-regi relation without any knowledge about the potential processes (or transformations) that may have occurred and selects conceptual neighbors based on the least number of differences
+%	\begin{frame}{The Snapshot Model}
+%		\begin{itemize}
+%			\item derives the neighborhoods by comparing pairs of topological relations and selects neighbors based on least noticeable differences
+%		\end{itemize}
+%	\end{frame}
+%	
+%	% the second model derives the closest relations from smooth transitions
+%	\begin{frame}{The Smooth-Transition Model}
+%		\begin{itemize}
+%			\item develops neighborhoods based on the knowledge of the deformations that may change a topological relation
+%		\end{itemize}
+%	\end{frame}
+%	
+%	% \section{Comparison}
+%	% the resulting similarity diagrams show some differences, which were compared with the results from tests in which human subjects were asked to orfanize line-region relations into grooups of similar relations. The grouping the subjects made indicate that the smooth-transition model captures more important aspects of the similarity of topological line-region relations than the snapshot model. -> model 2 >>> model 1
+%	
+%	% using data from human-subjects tests, the significance of the two models is assessed
