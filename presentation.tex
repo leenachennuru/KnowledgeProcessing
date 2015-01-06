@@ -4,6 +4,7 @@
 \usepackage{dsfont}
 \usepackage{color}
 \usepackage{tabularx}
+\usepackage{amssymb}
 
 % % % % % FRAME STYLE
 
@@ -11,7 +12,6 @@
 \setbeamertemplate{frametitle}{\vspace{10mm}\hspace{0mm}\insertframetitle}
 \setbeamertemplate{footline}{\hfill\insertframenumber/\inserttotalframenumber\hspace{5mm}\vspace{5mm}}
 
-%\usefonttheme{professionalfonts}
 \usefonttheme{structurebold}
 \usecolortheme{dove}
 
@@ -22,6 +22,10 @@
 		\tableofcontents[currentsection]
 	\end{frame}
 }
+
+% % % % % CUSTOM COMMANDS
+\newcommand{\Empty}{\mbox{$\varnothing$}}
+\newcommand{\NotEmpty}{\mbox{$\neg\varnothing$}}
 
 % % % % % FRAMES
 
@@ -36,35 +40,149 @@
 		\titlepage
 	\end{frame}
 	
-%	Qualitative Spatial Reasoning, Line-Region Relation, GIS (geographic information system),
+	\section{Motivation}
 	
-	\section{Qualitative Spatial Relations}
 	
-	\begin{frame}
-		\begin{itemize}
-			\item practical need for a formal understanding of spatial relations within the realm of geographic information systems (GISs).
-			
-			\item in order to display, process, or analyze spatial information, users select data from a GIS by asking queries.
-			
-			\item Almost any GIS is based on spatial concepts. Many queries explicitly incorporate spatial relations to describe constraints about spatial objects to be analyzed or displayed
-			
-			\item of particular interest are the spatial constraints contained in queries expressed by spatial relations such as in, adjacent or within 10 miles.
-			
-			
-		\end{itemize}
-	\end{frame}
+	\section{Definitions and Formalisms}
 	
-	\section{Line-Region Relations}
+	\subsection{Lines and Regions}
+	\subsection{Topological Parts of an Object}
+	\subsection{9-Intersection}
 	
-	\section{Conceptual Neighborhood Models}
+	\section{Models of Conceptual Neighborhoods}
 	
 	\subsection{Snapshot Model}
 	
+	\begin{frame}{Snapshot Model}
+		%TODO
+	\end{frame}
+	
 	\subsection{Smooth-Transition Model}
 	
-	\section{Comparison}
+	\begin{frame}{Smooth-Transition Model}
+		\begin{block}{Smooth Transition}
+			infinitesimally small deformation that changes the topological relation
+		\end{block}
+		\begin{block}{Formalization based on} for lines and regions, such changes may be thought of as
+			\begin{enumerate}
+				\item Moving a line's boundary node from a region part into an adjacent part of the region.
+				
+				\item Moving a line's interior partially from a region part into an adjacent part of the region.
+			\end{enumerate}
+		a total of 4? rules
+		Define extent of a part i
+		\end{block}
+	\end{frame}
 	
-	\section{Summary}
+	% Draw 9-intersection model on the board for reference
+	
+	\begin{frame}{Moving the Line's Boundaries}
+		\begin{block}{Rule 1}
+			If the line's two boundaries intersect with the same region part, then extend the intersection to either of the adjacent region parts.
+		\end{block}
+		
+		\begin{block}{Formalization}
+			\centering $ \#M[\delta, \_] = 1 \Rightarrow
+			\forall i (M[\delta, i] = \NotEmpty):
+				M_{N}[\delta, \text{adjacent}(i)] := \NotEmpty $
+		\end{block}
+		
+		\begin{block}{Example}
+			%Moving one boundary of a line into an adjacent part of the region.
+			\includegraphics[width=\textwidth]{images/smooth_transitions_case_1.png}
+		\end{block}
+	\end{frame}
+	
+	\begin{frame}{Moving the Line's Boundaries}
+		\begin{block}{Rule 2}
+			If the line's two boundaries intersect with two different region parts then move either intersection to the adjacent region part.
+		\end{block}
+		
+		\begin{block}{Formalization}
+			\centering $ \#M[\delta,\_] = 2 \Rightarrow
+			\forall i (M[\delta, i] = \NotEmpty):
+				M_{N}[\delta, i] := \Empty \text{ \textbf{and} }
+				M_{N}[\delta, \text{adjacent}(i)] := \NotEmpty $
+		\end{block}
+		
+		\begin{block}{Example}
+			%Moving either boundary into an adjacent region part.
+			\includegraphics[width=\textwidth]{images/smooth_transitions_case_2.png}
+		\end{block}
+	\end{frame}
+	
+	\begin{frame}{Moving the Line's Interior}
+		\begin{block}{Rule 1}
+			Extend the line's interior-intersection to either of the adjacent region parts.
+		\end{block}
+		
+		\begin{block}{Formalization}
+			\centering $ \forall i (M[°, i] = \NotEmpty):
+			M_{N}[°, \text{adjacent}(i)] := \NotEmpty $
+		\end{block}
+		
+		\begin{block}{Example}
+			%Moving the line's interior into an adjacent part of the region.
+			\includegraphics[width=\textwidth]{images/smooth_transitions_case_3.png}
+		\end{block}
+	\end{frame}
+	
+	\begin{frame}{Moving the Line's Interior}
+		\begin{block}{Rule 2}
+			Reduce the line's interior intersection on either of the adjacent region parts.
+		\end{block}
+		
+		\begin{block}{Formalization}
+			\centering
+			$ \#M[°, \_] = 2 \Rightarrow
+			\forall i (M[°, i] = \NotEmpty):
+			M_{N}[°, i] := \Empty $
+			$ \#M[°, \_] = 3 \Rightarrow
+			\forall i (i \neq \delta):
+			M_{N}[°, i] := \Empty $
+		\end{block}
+		
+		\begin{block}{Example}
+			%Moving the line's interior out of a part of the region.
+			\includegraphics[width=\textwidth]{images/smooth_transitions_case_4.png}
+		\end{block}
+	\end{frame}
+	
+	\begin{frame}{Consistency Constraints}
+		\begin{enumerate}
+			\item If the line's interior intersects with the region's interior \textit{and} exterior, then the line's interior must also intersect with the region's boundary.
+			\begin{center}
+				$ M[°,°] = \NotEmpty \text{and} M[°,^{-}] = \NotEmpty \Rightarrow M[°,\delta] := \NotEmpty $
+			\end{center}
+			
+			\item If the line's boundary intersects with the region's interior (exterior) then the line's interior must intersect with the region's interior (exterior) as well.
+			\begin{center}
+				$ M[\delta, °] = \NotEmpty M[°,°] := \NotEmpty $ \\
+				$ M[\delta, ^{-}] = \NotEmpty M[°,^{-}] := \NotEmpty $
+			\end{center}
+		\end{enumerate}
+
+	\end{frame}
+	
+	% NOTES:
+	% The separate moves of the line's interior and boundaries are atomic operations that do not account for some of the properties of the objects and their embedding space and, therefore, may generate inconsistent 9-intersections for configurations that cannot be realized. In order to maintain connectivity among the line's boundaries and interior, it is necessary to assure the following \textbf{consistency constraint}: [1]. Likewise, in order to preserve the continuous-space property of $\mathcal{R}^{2}$, the following consistency constraint must be fulfilled: [2].
+	
+	\begin{frame}{Resulting Neighborhood Graph}
+		\includegraphics[width=\textwidth]{images/smooth_transitions_neighborhood_graph.png}
+	\end{frame}
+	
+	% NOTES:
+	% This graph resembles in most of its structure and properties the snapshot neighborhood graph. The difference between the two graphs are
+	%\begin{itemize}
+	%	\item the way in which conceptual neighbors are connected at the top,
+	%	\item the additional links that run across the smooth transition graph.
+	%\end{itemize}
+	
+	
+	\section{Evaluation}
+	
+	\section{Conclusion}
+
 	
 	
 	\begin{frame}{References}  
@@ -82,68 +200,3 @@
 		\end{thebibliography}
 	\end{frame}
 \end{document}
-
-%	%\section{Introduction}
-%	
-%	% look at eggenhofer1991 for introduction-relevant stuff
-%	
-%	% goal: the study of spatial relations aims at gaining a better understanding of the way people use them in everyday life - how they think about space and the relations among objects, and how they communicate about them - and at developing methods suitable for implementation in information systems.
-%	
-%	% cognitive science, linguistics, such investigations of spatial relations have demonstrated enormous practical relevance, for instance in the design and use of geographic information systems
-%	
-%	\begin{frame}{Motivation}
-%		GIS (Geographic information systems)
-%	\end{frame}
-%	
-%	\begin{frame}{Qualitative Spatial Reasoning}
-%		What is it? What is it good for?
-%	\end{frame}	
-%	
-%	\begin{frame}{Line-Region Relations}
-%		What can this be used for?
-%	\end{frame}
-%	
-%	
-%	% this paper investigates properties of topological relations, i.e., spatial relations that are preserved under continuous transformations, result from recent categorization.
-%	
-%	% the model for topological relations used in this paper distinguishes 19 different topological relations between a line and a region in $\mathds{R}^{2}$
-%	
-%	% goal: to design a computational model that determines for each topological relation those relations that are consequently closest to it. This model will be helpful in grouping topological relations according to their similarities, a task that is critical for the selection of appropriate terminology when people communicate with information systems about specific spatial configurations. The novel approach in this paper is the grouping of topologicla information, which implies a partial order over topological relations. This formal approach is complementary to human-subject tests about the use of spatial relations in natural languae.
-%	
-%	% goal: comparison of two different similarity models.
-%	
-%	%TODO Define conceptual neighborhood
-%	
-%	% \section{Background}
-%	
-%	\begin{frame}{Definitions}
-%		Define interior, boundary, exterior of point set (line, region)
-%	\end{frame}
-%	
-%	% 9-intersection for binary topological relations
-%	% brief summary of the model for topological relations
-%	\begin{frame}{9-Intersection}
-%		Inhalt...
-%	\end{frame}
-%	
-%	% \section{Conceptual Neighborhood of Line-Region Relations}
-%	% there are two models of conceptual neighborhoods among topoloical relations between a line and a region: 1) the snapshot model and 2) the smooth-transition model.
-%	
-%	% the first model compares two snapshots of a line-regi relation without any knowledge about the potential processes (or transformations) that may have occurred and selects conceptual neighbors based on the least number of differences
-%	\begin{frame}{The Snapshot Model}
-%		\begin{itemize}
-%			\item derives the neighborhoods by comparing pairs of topological relations and selects neighbors based on least noticeable differences
-%		\end{itemize}
-%	\end{frame}
-%	
-%	% the second model derives the closest relations from smooth transitions
-%	\begin{frame}{The Smooth-Transition Model}
-%		\begin{itemize}
-%			\item develops neighborhoods based on the knowledge of the deformations that may change a topological relation
-%		\end{itemize}
-%	\end{frame}
-%	
-%	% \section{Comparison}
-%	% the resulting similarity diagrams show some differences, which were compared with the results from tests in which human subjects were asked to orfanize line-region relations into grooups of similar relations. The grouping the subjects made indicate that the smooth-transition model captures more important aspects of the similarity of topological line-region relations than the snapshot model. -> model 2 >>> model 1
-%	
-%	% using data from human-subjects tests, the significance of the two models is assessed
