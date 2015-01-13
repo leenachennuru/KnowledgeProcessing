@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.10)  13 JAN 2015 09:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.10)  13 JAN 2015 13:35
 entering extended mode
 **presentation.tex
 (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\presentation.tex
@@ -924,168 +924,215 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\presentation.toc) [4
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 94.
+LaTeX Font Info:    Try loading font information for U+msa on input line 98.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 94.
+LaTeX Font Info:    Try loading font information for U+msb on input line 98.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 94.
+line 98.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd"
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
+Overfull \vbox (28.5423pt too high) detected at line 98
+ []
+
 [5
 
 ] [6
 
 ]
-<images/smooth_transitions_example_a.png, id=120, 978.65625pt x 336.50719pt>
+<images/smooth_transitions_example_a.png, id=128, 978.65625pt x 336.50719pt>
 File: images/smooth_transitions_example_a.png Graphic file (type png)
 
 <use images/smooth_transitions_example_a.png>
 Package pdftex.def Info: images/smooth_transitions_example_a.png used on input 
-line 120.
+line 124.
 (pdftex.def)             Requested size: 307.28987pt x 105.66142pt.
  [7
 
  <C:/Users/Sibel/Documents/GitHub/KnowledgeProcessing/images/smooth_transitions
 _example_a.png>]
-<images/smooth_transitions_example_b.png, id=132, 956.07187pt x 296.60812pt>
+<images/smooth_transitions_example_b.png, id=140, 956.07187pt x 296.60812pt>
 File: images/smooth_transitions_example_b.png Graphic file (type png)
 
 <use images/smooth_transitions_example_b.png>
 Package pdftex.def Info: images/smooth_transitions_example_b.png used on input 
-line 138.
+line 142.
 (pdftex.def)             Requested size: 307.28987pt x 95.33292pt.
  [8
 
  <C:/Users/Sibel/Documents/GitHub/KnowledgeProcessing/images/smooth_transitions
 _example_b.png>]
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 154.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 158.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 154.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 158.
 
-<images/smooth_transitions_example_c.png, id=139, 983.92593pt x 285.31593pt>
+<images/smooth_transitions_example_c.png, id=147, 983.92593pt x 285.31593pt>
 File: images/smooth_transitions_example_c.png Graphic file (type png)
 
 <use images/smooth_transitions_example_c.png>
 Package pdftex.def Info: images/smooth_transitions_example_c.png used on input 
-line 154.
+line 158.
 (pdftex.def)             Requested size: 307.28987pt x 89.1044pt.
  [9
 
  <C:/Users/Sibel/Documents/GitHub/KnowledgeProcessing/images/smooth_transitions
 _example_c.png>]
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 175.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 179.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 175.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 179.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 175.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 179.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 175.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 179.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 175.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 179.
 
-<images/smooth_transitions_example_d.png, id=147, 981.6675pt x 285.31593pt>
+<images/smooth_transitions_example_d.png, id=155, 981.6675pt x 285.31593pt>
 File: images/smooth_transitions_example_d.png Graphic file (type png)
 
 <use images/smooth_transitions_example_d.png>
 Package pdftex.def Info: images/smooth_transitions_example_d.png used on input 
-line 175.
+line 179.
 (pdftex.def)             Requested size: 307.28987pt x 89.30902pt.
  [10
 
  <C:/Users/Sibel/Documents/GitHub/KnowledgeProcessing/images/smooth_transitions
 _example_d.png>]
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 191.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 195.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 191.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 195.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 191.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 195.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 191.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 195.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 191.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 195.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 191.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 195.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 191.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 195.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 191.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 195.
 
 [11
 
 ]
-<images/smooth_transitions_neighborhood_graph.png, id=160, 973.38657pt x 566.86
+<images/smooth_transitions_neighborhood_graph.png, id=168, 973.38657pt x 566.86
 781pt>
 File: images/smooth_transitions_neighborhood_graph.png Graphic file (type png)
  <use images/smooth_transitions_neighborhood_graph.png>
 Package pdftex.def Info: images/smooth_transitions_neighborhood_graph.png used 
-on input line 198.
+on input line 202.
 (pdftex.def)             Requested size: 307.28987pt x 178.95354pt.
  [12
 
  <C:/Users/Sibel/Documents/GitHub/KnowledgeProcessing/images/smooth_transitions
 _neighborhood_graph.png>]
-(C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\presentation.toc) [13
+<images/snapshot_model_neighborhood_graph_simple.png, id=175, 549.55313pt x 436
+.12938pt> <use images/snapshot_model_neighborhood_graph_simple.png>
+<use images/smooth_transitions_neighborhood_graph.png>
+<use images/snapshot_model_neighborhood_graph_simple.png>
+<use images/smooth_transitions_neighborhood_graph.png>
+File: images/snapshot_model_neighborhood_graph_simple.png Graphic file (type pn
+g)
+
+<use images/snapshot_model_neighborhood_graph_simple.png>
+Package pdftex.def Info: images/snapshot_model_neighborhood_graph_simple.png us
+ed on input line 228.
+(pdftex.def)             Requested size: 147.49782pt x 117.05109pt.
+
+Overfull \hbox (5.85287pt too wide) in paragraph at lines 228--228
+[]|[]| 
+ []
+
+File: images/smooth_transitions_neighborhood_graph.png Graphic file (type png)
+<use images/smooth_transitions_neighborhood_graph.png>
+Package pdftex.def Info: images/smooth_transitions_neighborhood_graph.png used 
+on input line 228.
+(pdftex.def)             Requested size: 147.49782pt x 85.89146pt.
+
+Overfull \hbox (5.85287pt too wide) in paragraph at lines 228--228
+[]|[]| 
+ []
+
+[13
+
+ <C:/Users/Sibel/Documents/GitHub/KnowledgeProcessing/images/snapshot_model_nei
+ghborhood_graph_simple.png>] [14
 
 ]
-(C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\presentation.toc) [14
+(C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\presentation.toc) [15
+
+]
+[16
+
+] [17
+
+]
+Overfull \vbox (58.64374pt too high) detected at line 274
+ []
+
+[18
+
+] (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\presentation.toc)
+[19
 
 ]
 
-LaTeX Warning: Empty `thebibliography' environment on input line 227.
+LaTeX Warning: Empty `thebibliography' environment on input line 293.
 
-[15
+[20
 
 ]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 228.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 294.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 294.
  (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 228.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 228.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 294.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 294.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: E07CA1BD65522EF36AD82A47483508DC;594.
+(rerunfilecheck)             Checksum: 7EFC53A57A2B82960B451802CCBEC91B;664.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 228.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 294.
  ) 
 Here is how much of TeX's memory you used:
- 15940 strings out of 493921
- 299660 string characters out of 3147281
- 363402 words of memory out of 3000000
- 18785 multiletter control sequences out of 15000+200000
+ 15969 strings out of 493921
+ 300150 string characters out of 3147281
+ 364402 words of memory out of 3000000
+ 18802 multiletter control sequences out of 15000+200000
  13548 words of font info for 49 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 56i,11n,55p,589b,537s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,13n,55p,589b,537s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/Mi
@@ -1095,9 +1142,9 @@ type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
 s/symbols/msbm10.pfb>
-Output written on presentation.pdf (15 pages, 298124 bytes).
+Output written on presentation.pdf (20 pages, 354671 bytes).
 PDF statistics:
- 243 PDF objects out of 1000 (max. 8388607)
- 41 named destinations out of 1000 (max. 500000)
- 148 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 282 PDF objects out of 1000 (max. 8388607)
+ 52 named destinations out of 1000 (max. 500000)
+ 161 words of extra memory for PDF output out of 10000 (max. 10000000)
 

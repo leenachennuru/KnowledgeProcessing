@@ -6,6 +6,7 @@
 \beamer@subsectionintoc {2}{3}{9-Intersection}{4}{0}{2}
 \beamer@sectionintoc {3}{Conceptual Neighborhood Models}{4}{0}{3}
 \beamer@subsectionintoc {3}{1}{Snapshot Model}{5}{0}{3}
-\beamer@subsectionintoc {3}{2}{Smooth Transitions}{5}{0}{3}
-\beamer@sectionintoc {4}{Evaluation}{13}{0}{4}
-\beamer@sectionintoc {5}{Conclusion}{14}{0}{5}
+\beamer@subsectionintoc {3}{2}{Smooth-Transition Model}{5}{0}{3}
+\beamer@subsectionintoc {3}{3}{Juxtaposition}{13}{0}{3}
+\beamer@sectionintoc {4}{Evaluation}{15}{0}{4}
+\beamer@sectionintoc {5}{Conclusion}{19}{0}{5}
