@@ -1,11 +1,11 @@
 \beamer@endinputifotherversion {3.33pt}
 \beamer@sectionintoc {1}{Motivation}{2}{0}{1}
-\beamer@sectionintoc {2}{Definitions and Formalisms}{3}{0}{2}
+\beamer@sectionintoc {2}{Background}{3}{0}{2}
 \beamer@subsectionintoc {2}{1}{Lines and Regions}{4}{0}{2}
 \beamer@subsectionintoc {2}{2}{Topological Parts of an Object}{4}{0}{2}
 \beamer@subsectionintoc {2}{3}{9-Intersection}{4}{0}{2}
-\beamer@sectionintoc {3}{Models of Conceptual Neighborhoods}{4}{0}{3}
+\beamer@sectionintoc {3}{Conceptual Neighborhood Models}{4}{0}{3}
 \beamer@subsectionintoc {3}{1}{Snapshot Model}{5}{0}{3}
-\beamer@subsectionintoc {3}{2}{Smooth-Transition Model}{7}{0}{3}
-\beamer@sectionintoc {4}{Evaluation}{14}{0}{4}
-\beamer@sectionintoc {5}{Conclusion}{15}{0}{5}
+\beamer@subsectionintoc {3}{2}{Smooth Transitions}{5}{0}{3}
+\beamer@sectionintoc {4}{Evaluation}{13}{0}{4}
+\beamer@sectionintoc {5}{Conclusion}{14}{0}{5}

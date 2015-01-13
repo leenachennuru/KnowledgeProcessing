@@ -8,13 +8,16 @@
 
 % % % % % FRAME STYLE
 
+% NEW
+%\usetheme{Frankfurt}
+%\setbeamertemplate{navigation symbols}{}
+%\setbeamertemplate{frametitle}[default][center]
+
+% OLD
 \setbeamertemplate{navigation symbols}{}
-\setbeamertemplate{frametitle}{\vspace{10mm}\hspace{0mm}\insertframetitle}
+\setbeamertemplate{frametitle}{\vspace{5mm}\hspace{0mm}\insertframetitle}
+%\setbeamertemplate{frametitle}[default][center]
 \setbeamertemplate{footline}{\hfill\insertframenumber/\inserttotalframenumber\hspace{5mm}\vspace{5mm}}
-
-\usefonttheme{structurebold}
-\usecolortheme{dove}
-
 \AtBeginSection[]
 {
 	\begin{frame}
@@ -23,9 +26,13 @@
 	\end{frame}
 }
 
+\usefonttheme{structurebold}
+\usecolortheme{dove}
+
 % % % % % CUSTOM COMMANDS
 \newcommand{\Empty}{\mbox{$\varnothing$}}
 \newcommand{\NotEmpty}{\mbox{$\neg\varnothing$}}
+\newcommand{\ToDo}{\textcolor{red}{TODO}}
 
 % % % % % FRAMES
 
@@ -34,7 +41,6 @@
 	\title{Qualitative Spatial Reasoning over Line-Region Relations}
 	\author{Leena and Sibel}
 	\date{Knowledge Representation\\Seminar Presentation}
-
 	
 	\begin{frame}
 		\titlepage
@@ -42,43 +48,59 @@
 	
 	\section{Motivation}
 	
-	
-	\section{Definitions and Formalisms}
+	\section{Background}
 	
 	\subsection{Lines and Regions}
+	
 	\subsection{Topological Parts of an Object}
+	
 	\subsection{9-Intersection}
 	
-	\section{Models of Conceptual Neighborhoods}
+	\section{Conceptual Neighborhood Models}
 	
 	\subsection{Snapshot Model}
 	
-	\begin{frame}{Snapshot Model}
+%	\begin{frame}{Snapshot Model}
+%		
+%	\end{frame}
+%	
+%	\begin{frame}{Resulting Neighborhood Graph}
+%		\includegraphics[width=\textwidth]{images/snapshot_model_neighborhood_graph.png}
+%	\end{frame}
+	
+	\subsection{Smooth Transitions}
+	
+	\begin{frame}{Smooth Transitions}
 		
-	\end{frame}
-	
-	\begin{frame}{Resulting Neighborhood Graph}
-		\includegraphics[width=\textwidth]{images/snapshot_model_neighborhood_graph.png}
-	\end{frame}
-	
-	\subsection{Smooth-Transition Model}
-	
-	\begin{frame}{Smooth-Transition Model}
-		\begin{block}{Smooth Transition}
-			infinitesimally small deformation that changes the topological relation
+		\begin{block}{Conceptual Neighborhood} A line-region relation is topologically different from another one by an infinitesimally small deformation of its geometry.
 		\end{block}
-		\begin{block}{Formalization based on} for lines and regions, such changes may be thought of as
-			\begin{enumerate}
-				\item Moving a line's boundary node from a region part into an adjacent part of the region.
-				
-				\item Moving a line's interior partially from a region part into an adjacent part of the region.
-			\end{enumerate}
-		a total of 4? rules
-		Define extent of a part i
+		
+		\begin{block}{Possible Changes} A total of four rules:
+			\begin{itemize}
+				\item Moving around a line's boundary nodes
+				\begin{itemize}
+					\item[Rule 1] Line's two boundary nodes intersect with same region part
+					\item[Rule 2] Line's two boundary nodes intersect with different region part
+				\end{itemize}
+				\item Moving around a line's interior
+				\begin{enumerate}
+					\item[Rule 3] Extend line's interior-intersection partially
+					\item[Rule 4] Reduce line's interior-intersection partially
+				\end{enumerate}
+			\end{itemize}
 		\end{block}
+		
+		In terms of 9-Intersection, a smooth transition means that an intersection or its adjacent intersection gets changed from empty to non-empty, or reverse.
 	\end{frame}
 	
-	% Draw 9-intersection model on the board for reference
+	\begin{frame}{Extent of a Line Part}
+		Extent of a part $i$: Denoted by $ \#M[i, \_]$; number of non-empty intersections between $i$ and th three parts of the second object.
+		Define extent of a part i Draw 9-intersection model on the board for reference
+		
+		\begin{itemize}
+			\item The extent of a line's interior with respect to a region is in the interval of 1 to 3, the extent of the lines boundary is either 1 (if both nodes are located in the same region part) or 2 (if the nodes are located in different parts of the region), and the extent of a line's interior is always 3.
+		\end{itemize}
+	\end{frame}
 	
 	\begin{frame}{Moving the Line's Boundaries}
 		\begin{block}{Rule 1}
@@ -88,7 +110,7 @@
 		\begin{block}{Formalization}
 			\centering $ \#M[\delta, \_] = 1 \Rightarrow
 			\forall i (M[\delta, i] = \NotEmpty):
-				M_{N}[\delta, \text{adjacent}(i)] := \NotEmpty $
+			M_{N}[\delta, \text{adjacent}(i)] := \NotEmpty $
 		\end{block}
 		
 		\begin{block}{Example}
@@ -105,8 +127,8 @@
 		\begin{block}{Formalization}
 			\centering $ \#M[\delta,\_] = 2 \Rightarrow
 			\forall i (M[\delta, i] = \NotEmpty):
-				M_{N}[\delta, i] := \Empty \text{ \textbf{and} }
-				M_{N}[\delta, \text{adjacent}(i)] := \NotEmpty $
+			M_{N}[\delta, i] := \Empty \text{ \textbf{and} }
+			M_{N}[\delta, \text{adjacent}(i)] := \NotEmpty $
 		\end{block}
 		
 		\begin{block}{Example}
@@ -165,7 +187,7 @@
 				$ M[\delta, ^{-}] = \NotEmpty M[°,^{-}] := \NotEmpty $
 			\end{center}
 		\end{enumerate}
-
+		
 	\end{frame}
 	
 	% NOTES:
