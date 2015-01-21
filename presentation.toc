@@ -2,5 +2,5 @@
 \beamer@sectionintoc {1}{9-Intersection}{3}{0}{1}
 \beamer@sectionintoc {2}{Snapshot Model}{4}{0}{2}
 \beamer@sectionintoc {3}{Smooth-Transition Model}{5}{0}{3}
-\beamer@sectionintoc {4}{Evaluation}{11}{0}{4}
-\beamer@sectionintoc {5}{Summary}{15}{0}{5}
+\beamer@sectionintoc {4}{Evaluation}{16}{0}{4}
+\beamer@sectionintoc {5}{Summary}{21}{0}{5}
