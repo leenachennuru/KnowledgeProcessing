@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.10)  20 JAN 2015 20:05
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.10)  26 JAN 2015 13:57
 entering extended mode
 **presentation.tex
 (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\presentation.tex
@@ -745,6 +745,7 @@ medove.sty"
 Package: beamercolorthemedove 2012/02/23  (rcs-revision 406bcaf3a3c7)
 )
 (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\presentation.aux
+(C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\motivation.aux)
 (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\9-intersection.aux)
 (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\snapshot_model.aux)
 (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\smooth_transitions.aux)
@@ -925,10 +926,14 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\presentation.toc) [2
 
 ]
+(C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\motivation.tex)
 (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\presentation.toc) [3
+
+
 
 ]
 (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\9-intersection.tex)
@@ -969,7 +974,7 @@ thkerncmss.
 ] [8
 
 ]
-<images/smooth_transitions_example_a.png, id=99, 978.65625pt x 336.50719pt>
+<images/smooth_transitions_example_a.png, id=112, 978.65625pt x 336.50719pt>
 File: images/smooth_transitions_example_a.png Graphic file (type png)
 
 <use images/smooth_transitions_example_a.png>
@@ -980,7 +985,7 @@ line 73.
 
  <C:/Users/Sibel/Documents/GitHub/KnowledgeProcessing/images/smooth_transitions
 _example_a.png>]
-<images/smooth_transitions_example_b.png, id=108, 956.07187pt x 296.60812pt>
+<images/smooth_transitions_example_b.png, id=121, 956.07187pt x 296.60812pt>
 File: images/smooth_transitions_example_b.png Graphic file (type png)
 
 <use images/smooth_transitions_example_b.png>
@@ -997,7 +1002,7 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 109.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 109.
 
-<images/smooth_transitions_example_c.png, id=115, 983.92593pt x 285.31593pt>
+<images/smooth_transitions_example_c.png, id=128, 983.92593pt x 285.31593pt>
 File: images/smooth_transitions_example_c.png Graphic file (type png)
 
 <use images/smooth_transitions_example_c.png>
@@ -1023,7 +1028,7 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 128.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 128.
 
-<images/smooth_transitions_example_d.png, id=123, 981.6675pt x 285.31593pt>
+<images/smooth_transitions_example_d.png, id=136, 981.6675pt x 285.31593pt>
 File: images/smooth_transitions_example_d.png Graphic file (type png)
 
 <use images/smooth_transitions_example_d.png>
@@ -1061,7 +1066,7 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 146.
 [13
 
 ]
-<images/smooth_transitions_neighborhood_graph.png, id=136, 973.38657pt x 566.86
+<images/smooth_transitions_neighborhood_graph.png, id=149, 973.38657pt x 566.86
 781pt>
 File: images/smooth_transitions_neighborhood_graph.png Graphic file (type png)
  <use images/smooth_transitions_neighborhood_graph.png>
@@ -1072,7 +1077,7 @@ on input line 153.
 
  <C:/Users/Sibel/Documents/GitHub/KnowledgeProcessing/images/smooth_transitions
 _neighborhood_graph.png>]
-<images/snapshot_model_neighborhood_graph_simple.png, id=143, 549.55313pt x 436
+<images/snapshot_model_neighborhood_graph_simple.png, id=156, 549.55313pt x 436
 .12938pt> <use images/snapshot_model_neighborhood_graph_simple.png>
 <use images/smooth_transitions_neighborhood_graph.png>
 <use images/snapshot_model_neighborhood_graph_simple.png>
@@ -1111,61 +1116,80 @@ ghborhood_graph_simple.png>])
 
 
 ]
-[18
+<images/evaluation_setup.png, id=178, 636.3775pt x 300.62312pt>
+File: images/evaluation_setup.png Graphic file (type png)
 
-] [19
+<use images/evaluation_setup.png>
+Package pdftex.def Info: images/evaluation_setup.png used on input line 35.
+(pdftex.def)             Requested size: 307.28987pt x 145.15984pt.
+ [18
+
+ <C:/Users/Sibel/Documents/GitHub/KnowledgeProcessing/images/evaluation_setup.p
+ng>]
+File: images/evaluation_setup.png Graphic file (type png)
+ <use images/evaluation_setup.png>
+Package pdftex.def Info: images/evaluation_setup.png used on input line 35.
+(pdftex.def)             Requested size: 307.28987pt x 145.15984pt.
+
+[19
+
+] [20
+
+] [21
 
 ]
-Overfull \vbox (58.64374pt too high) detected at line 66
+Overfull \vbox (58.64374pt too high) detected at line 79
  []
 
-[20
+[22
 
 ]) (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\presentation.toc)
-[21
-
-
-] (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\summary.tex [22
-
-
-])
-
-LaTeX Warning: Empty `thebibliography' environment on input line 72.
-
 [23
+
+
+] (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\summary.tex
+Overfull \vbox (66.59789pt too high) detected at line 30
+ []
+
+[24
+
+
+]) [25
 
 
 ]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
- (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\presentation.aux
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 80.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 80.
+
+(C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\presentation.aux
+(C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\motivation.aux)
 (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\9-intersection.aux)
 (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\snapshot_model.aux)
 (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\smooth_transitions.aux)
 (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\evaluation.aux)
 (C:\Users\Sibel\Documents\GitHub\KnowledgeProcessing\summary.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 73.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 80.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 80.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: 11DD86C0BFCA7EFAC8CA587595174285;248.
+(rerunfilecheck)             Checksum: 4432038B96ADA0F056FB9CF87ED28857;294.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 80.
  ) 
 Here is how much of TeX's memory you used:
- 15966 strings out of 493921
- 300805 string characters out of 3147281
- 366819 words of memory out of 3000000
- 18762 multiletter control sequences out of 15000+200000
+ 15982 strings out of 493921
+ 301288 string characters out of 3147281
+ 367173 words of memory out of 3000000
+ 18763 multiletter control sequences out of 15000+200000
  12949 words of font info for 47 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 56i,13n,55p,851b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,13n,55p,619b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/Mi
@@ -1175,9 +1199,9 @@ type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
 s/symbols/msbm10.pfb>
-Output written on presentation.pdf (23 pages, 350431 bytes).
+Output written on presentation.pdf (25 pages, 382528 bytes).
 PDF statistics:
- 243 PDF objects out of 1000 (max. 8388607)
- 52 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 272 PDF objects out of 1000 (max. 8388607)
+ 57 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
