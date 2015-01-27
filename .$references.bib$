@@ -24,20 +24,22 @@
   Publisher                = {Taylor \& Francis}
 }
 
+@Article{MaxJEgenhofer1998,
+  Title                    = {Metric details for natural language spatial relations},
+  Author                   = {Max J Egenhofer, A.Rashid B.M.Shariff},
+  Journal                  = {ACM Transactions on Information Systems},
+  Year                     = {1998},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.27}
+}
+
 @Book{Talmy1983,
   Title                    = {How lnaguage structures space},
   Author                   = {Leonard Talmy},
   Editor                   = {Herbert L. Pick Jr, Linda P. Acredolo},
   Publisher                = {Springer},
   Year                     = {1983},
-
-  Owner                    = {Genieass},
-  Timestamp                = {2015.01.27}
-}
-
-@Article{,
-  Title                    = {How language structures space},
-  Author                   = {Leonard Talmy},
 
   Owner                    = {Genieass},
   Timestamp                = {2015.01.27}
