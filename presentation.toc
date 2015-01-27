@@ -1,7 +1,7 @@
 \beamer@endinputifotherversion {3.33pt}
 \beamer@sectionintoc {1}{Motivation}{2}{0}{1}
 \beamer@sectionintoc {2}{9-Intersection}{4}{0}{2}
-\beamer@sectionintoc {3}{Snapshot Model}{5}{0}{3}
-\beamer@sectionintoc {4}{Smooth-Transition Model}{6}{0}{4}
-\beamer@sectionintoc {5}{Evaluation}{17}{0}{5}
-\beamer@sectionintoc {6}{Summary}{24}{0}{6}
+\beamer@sectionintoc {3}{Snapshot Model}{6}{0}{3}
+\beamer@sectionintoc {4}{Smooth-Transition Model}{7}{0}{4}
+\beamer@sectionintoc {5}{Evaluation}{18}{0}{5}
+\beamer@sectionintoc {6}{Summary}{25}{0}{6}

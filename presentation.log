@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.13)  27 JAN 2015 19:07
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.13)  27 JAN 2015 19:58
 entering extended mode
 **presentation.tex
 
@@ -897,20 +897,20 @@ essing\smooth_transitions.aux")
 essing\evaluation.aux")
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
 essing\summary.aux"))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -961,7 +961,7 @@ LaTeX Font Info:    ... okay on input line 43.
 \everyMPtoPDFconversion=\toks52
 ) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box59
-Package hyperref Info: Link coloring OFF on input line 43.
+Package hyperref Info: Link coloring OFF on input line 44.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -971,9 +971,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count173
 )
-LaTeX Info: Redefining \ref on input line 43.
-LaTeX Info: Redefining \pageref on input line 43.
-LaTeX Info: Redefining \nameref on input line 43.
+LaTeX Info: Redefining \ref on input line 44.
+LaTeX Info: Redefining \pageref on input line 44.
+LaTeX Info: Redefining \nameref on input line 44.
 
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
 essing\presentation.out")
@@ -981,57 +981,57 @@ essing\presentation.out")
 essing\presentation.out")
 \@outlinefile=\write5
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 43.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 44.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 43.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 44.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 43.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 43.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 43.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 43.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 44.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 43.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 43.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 43.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 44.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 43.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 43.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 43.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 44.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 43.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 43.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 44.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 43.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 44.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 43.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 43.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 43.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 43.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 43.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 43.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 43.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 44.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 44.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 4
-3.
+4.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-43.
+44.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 43.
+ut line 44.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\tran
 slator-basic-dictionary\translator-basic-dictionary-English.dict"
@@ -1057,21 +1057,21 @@ Dictionary: translator-numbers-dictionary, Language: English
 slator-theorem-dictionary\translator-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 43.
+LaTeX Info: Redefining \includegraphics on input line 44.
 
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
 essing\presentation.nav")
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 46.
+(hyperref)                setting the option has no effect on input line 47.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <4> not available
-(Font)              size <5> substituted on input line 51.
+(Font)              size <5> substituted on input line 52.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 51.
+(Font)              size <5> substituted on input line 52.
 
 [1
 
@@ -1109,25 +1109,38 @@ essing\presentation.toc") [4
 
 ]
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
-essing\9-intersection.tex")
-("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
-essing\presentation.toc") [5
+essing\9-intersection.tex" <images/line.png, id=76, 315.42844pt x 143.78719pt>
+File: images/line.png Graphic file (type png)
 
+<use images/line.png>
+Package pdftex.def Info: images/line.png used on input line 15.
+(pdftex.def)             Requested size: 215.10196pt x 98.05482pt.
+
+Overfull \vbox (1.59433pt too high) detected at line 15
+ []
+
+[5
+
+
+ <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
+essing/images/line.png>])
+("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
+essing\presentation.toc") [6
 
 
 ]
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
 essing\snapshot_model.tex")
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
-essing\presentation.toc") [6
+essing\presentation.toc") [7
 
 
 
 ]
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
 essing\smooth_transitions.tex"
-<images/smooth_transitions_conceptual_neighborhood_3.png, id=96, 256.45813pt x 
-212.795pt>
+<images/smooth_transitions_conceptual_neighborhood_3.png, id=103, 256.45813pt x
+ 212.795pt>
 File: images/smooth_transitions_conceptual_neighborhood_3.png Graphic file (typ
 e png)
  <use images/smooth_transitions_conceptual_neighborhood_3.png>
@@ -1135,8 +1148,8 @@ Package pdftex.def Info: images/smooth_transitions_conceptual_neighborhood_3.pn
 g used on input line 41.
 (pdftex.def)             Requested size: 56.9055pt x 47.21442pt.
 
-<images/smooth_transitions_conceptual_neighborhood_1.png, id=98, 255.45438pt x 
-228.35312pt>
+<images/smooth_transitions_conceptual_neighborhood_1.png, id=105, 255.45438pt x
+ 228.35312pt>
 File: images/smooth_transitions_conceptual_neighborhood_1.png Graphic file (typ
 e png)
  <use images/smooth_transitions_conceptual_neighborhood_1.png>
@@ -1144,8 +1157,8 @@ Package pdftex.def Info: images/smooth_transitions_conceptual_neighborhood_1.pn
 g used on input line 41.
 (pdftex.def)             Requested size: 56.9055pt x 50.86502pt.
 
-<images/smooth_transitions_conceptual_neighborhood_2.png, id=99, 279.0425pt x 2
-50.9375pt>
+<images/smooth_transitions_conceptual_neighborhood_2.png, id=106, 279.0425pt x 
+250.9375pt>
 File: images/smooth_transitions_conceptual_neighborhood_2.png Graphic file (typ
 e png)
  <use images/smooth_transitions_conceptual_neighborhood_2.png>
@@ -1153,7 +1166,7 @@ Package pdftex.def Info: images/smooth_transitions_conceptual_neighborhood_2.pn
 g used on input line 41.
 (pdftex.def)             Requested size: 56.9055pt x 51.17448pt.
 
-[7
+[8
 
 
  <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
@@ -1161,30 +1174,30 @@ essing/images/smooth_transitions_conceptual_neighborhood_3.png> <C:/Users/Genie
 ass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProcessing/images/sm
 ooth_transitions_conceptual_neighborhood_1.png> <C:/Users/Genieass/Desktop/Acad
 s/Semester 1/Knowledge Processing/KnowledgeProcessing/images/smooth_transitions
-_conceptual_neighborhood_2.png>] [8
+_conceptual_neighborhood_2.png>] [9
 
-] [9
+] [10
 
 ]
-<images/smooth_transitions_example_a.png, id=124, 978.65625pt x 336.50719pt>
+<images/smooth_transitions_example_a.png, id=130, 978.65625pt x 336.50719pt>
 File: images/smooth_transitions_example_a.png Graphic file (type png)
 
 <use images/smooth_transitions_example_a.png>
 Package pdftex.def Info: images/smooth_transitions_example_a.png used on input 
 line 101.
 (pdftex.def)             Requested size: 307.28987pt x 105.66142pt.
- [10
+ [11
 
  <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
 essing/images/smooth_transitions_example_a.png>]
-<images/smooth_transitions_example_b.png, id=132, 956.07187pt x 296.60812pt>
+<images/smooth_transitions_example_b.png, id=138, 956.07187pt x 296.60812pt>
 File: images/smooth_transitions_example_b.png Graphic file (type png)
 
 <use images/smooth_transitions_example_b.png>
 Package pdftex.def Info: images/smooth_transitions_example_b.png used on input 
 line 120.
 (pdftex.def)             Requested size: 307.28987pt x 95.33292pt.
- [11
+ [12
 
  <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
 essing/images/smooth_transitions_example_b.png>]
@@ -1194,14 +1207,14 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 137.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 137.
 
-<images/smooth_transitions_example_c.png, id=139, 983.92593pt x 285.31593pt>
+<images/smooth_transitions_example_c.png, id=145, 983.92593pt x 285.31593pt>
 File: images/smooth_transitions_example_c.png Graphic file (type png)
 
 <use images/smooth_transitions_example_c.png>
 Package pdftex.def Info: images/smooth_transitions_example_c.png used on input 
 line 137.
 (pdftex.def)             Requested size: 307.28987pt x 89.1044pt.
- [12
+ [13
 
  <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
 essing/images/smooth_transitions_example_c.png>]
@@ -1220,14 +1233,14 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 156.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 156.
 
-<images/smooth_transitions_example_d.png, id=147, 981.6675pt x 285.31593pt>
+<images/smooth_transitions_example_d.png, id=154, 981.6675pt x 285.31593pt>
 File: images/smooth_transitions_example_d.png Graphic file (type png)
 
 <use images/smooth_transitions_example_d.png>
 Package pdftex.def Info: images/smooth_transitions_example_d.png used on input 
 line 156.
 (pdftex.def)             Requested size: 307.28987pt x 89.30902pt.
- [13
+ [14
 
  <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
 essing/images/smooth_transitions_example_d.png>]
@@ -1255,21 +1268,21 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 174.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 174.
 
-[14
+[15
 
 ]
-<images/smooth_transitions_neighborhood_graph.png, id=160, 973.38657pt x 566.86
+<images/smooth_transitions_neighborhood_graph.png, id=166, 973.38657pt x 566.86
 781pt>
 File: images/smooth_transitions_neighborhood_graph.png Graphic file (type png)
  <use images/smooth_transitions_neighborhood_graph.png>
 Package pdftex.def Info: images/smooth_transitions_neighborhood_graph.png used 
 on input line 181.
 (pdftex.def)             Requested size: 307.28987pt x 178.95354pt.
- [15
+ [16
 
  <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
 essing/images/smooth_transitions_neighborhood_graph.png>]
-<images/snapshot_model_neighborhood_graph_simple.png, id=167, 549.55313pt x 436
+<images/snapshot_model_neighborhood_graph_simple.png, id=173, 549.55313pt x 436
 .12938pt> <use images/snapshot_model_neighborhood_graph_simple.png>
 <use images/smooth_transitions_neighborhood_graph.png>
 <use images/snapshot_model_neighborhood_graph_simple.png>
@@ -1296,27 +1309,27 @@ Overfull \hbox (5.85287pt too wide) in paragraph at lines 200--200
 []|[]| 
  []
 
-[16
+[17
 
  <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
 essing/images/snapshot_model_neighborhood_graph_simple.png>])
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
-essing\presentation.toc") [17
+essing\presentation.toc") [18
 
 
 ]
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
-essing\evaluation.tex" [18
+essing\evaluation.tex" [19
 
 
 ]
-<images/evaluation_setup.png, id=189, 636.3775pt x 300.62312pt>
+<images/evaluation_setup.png, id=196, 636.3775pt x 300.62312pt>
 File: images/evaluation_setup.png Graphic file (type png)
 
 <use images/evaluation_setup.png>
 Package pdftex.def Info: images/evaluation_setup.png used on input line 46.
 (pdftex.def)             Requested size: 307.28987pt x 145.15984pt.
- [19
+ [20
 
  <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
 essing/images/evaluation_setup.png>]
@@ -1325,42 +1338,42 @@ File: images/evaluation_setup.png Graphic file (type png)
 <use images/evaluation_setup.png>
 Package pdftex.def Info: images/evaluation_setup.png used on input line 46.
 (pdftex.def)             Requested size: 307.28987pt x 145.15984pt.
- [20
-
-] [21
+ [21
 
 ] [22
+
+] [23
 
 ]
 Overfull \hbox (1.24803pt too wide) in paragraph at lines 91--91
  [] 
  []
 
-[23
+[24
 
 ])
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
-essing\presentation.toc") [24
+essing\presentation.toc") [25
 
 
 ]
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
-essing\summary.tex" [25
+essing\summary.tex" [26
 
 
 ])
-Overfull \vbox (6.37288pt too high) detected at line 87
+Overfull \vbox (6.37288pt too high) detected at line 88
  []
 
-[26
+[27
 
 
 ]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
 
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
 essing\presentation.aux"
@@ -1376,8 +1389,8 @@ essing\smooth_transitions.aux")
 essing\evaluation.aux")
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
 essing\summary.aux"))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 90.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 90.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: 4432038B96ADA0F056FB9CF87ED28857;294.
 
@@ -1385,13 +1398,13 @@ Package rerunfilecheck Info: File `presentation.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 90.
  ) 
 Here is how much of TeX's memory you used:
- 20366 strings out of 493921
- 413052 string characters out of 3144866
- 456245 words of memory out of 3000000
- 23068 multiletter control sequences out of 15000+200000
+ 20374 strings out of 493921
+ 413170 string characters out of 3144866
+ 457245 words of memory out of 3000000
+ 23074 multiletter control sequences out of 15000+200000
  17650 words of font info for 64 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  56i,17n,59p,619b,1142s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1406,9 +1419,9 @@ am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Program
 iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program File
 s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on presentation.pdf (26 pages, 445420 bytes).
+Output written on presentation.pdf (27 pages, 447979 bytes).
 PDF statistics:
- 291 PDF objects out of 1000 (max. 8388607)
- 59 named destinations out of 1000 (max. 500000)
- 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 298 PDF objects out of 1000 (max. 8388607)
+ 61 named destinations out of 1000 (max. 500000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
 
