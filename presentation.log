@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.13)  27 JAN 2015 19:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.13)  27 JAN 2015 23:15
 entering extended mode
 **presentation.tex
 
@@ -1109,37 +1109,97 @@ essing\presentation.toc") [4
 
 ]
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
-essing\9-intersection.tex" <images/line.png, id=76, 315.42844pt x 143.78719pt>
-File: images/line.png Graphic file (type png)
+essing\9-intersection.tex"
+<images/conceptualsimilarity.png, id=76, 283.0575pt x 210.7875pt>
+File: images/conceptualsimilarity.png Graphic file (type png)
 
-<use images/line.png>
-Package pdftex.def Info: images/line.png used on input line 15.
-(pdftex.def)             Requested size: 215.10196pt x 98.05482pt.
+<use images/conceptualsimilarity.png>
+Package pdftex.def Info: images/conceptualsimilarity.png used on input line 14.
 
-Overfull \vbox (1.59433pt too high) detected at line 15
- []
-
-[5
+(pdftex.def)             Requested size: 153.64493pt x 114.41858pt.
+ [5
 
 
  <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
-essing/images/line.png>])
+essing/images/conceptualsimilarity.png>] <images/line.png, id=82, 315.42844pt x
+ 143.78719pt>
+File: images/line.png Graphic file (type png)
+ <use images/line.png>
+Package pdftex.def Info: images/line.png used on input line 26.
+(pdftex.def)             Requested size: 215.10196pt x 98.05482pt.
+
+[6
+
+ <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
+essing/images/line.png>]
+<images/region.png, id=88, 343.2825pt x 182.18062pt>
+File: images/region.png Graphic file (type png)
+ <use images/region.png>
+Package pdftex.def Info: images/region.png used on input line 38.
+(pdftex.def)             Requested size: 215.10196pt x 114.15448pt.
+
+[7
+
+ <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
+essing/images/region.png>] [8
+
+] [9
+
+]
+<images/9examplemat.png, id=111, 386.94562pt x 113.67468pt>
+File: images/9examplemat.png Graphic file (type png)
+
+<use images/9examplemat.png>
+Package pdftex.def Info: images/9examplemat.png used on input line 77.
+(pdftex.def)             Requested size: 307.28987pt x 90.27379pt.
+
+Overfull \vbox (2.34244pt too high) detected at line 77
+ []
+
+[10
+
+ <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
+essing/images/9examplemat.png>]
+File: images/9examplemat.png Graphic file (type png)
+ <use images/9examplemat.png>
+Package pdftex.def Info: images/9examplemat.png used on input line 93.
+(pdftex.def)             Requested size: 307.28987pt x 90.27379pt.
+
+Overfull \vbox (18.07161pt too high) detected at line 93
+ []
+
+[11
+
+] <images/9intersection.png, id=122, 277.035pt x 362.85562pt>
+File: images/9intersection.png Graphic file (type png)
+
+<use images/9intersection.png>
+Package pdftex.def Info: images/9intersection.png used on input line 99.
+(pdftex.def)             Requested size: 169.01036pt x 221.36375pt.
+
+Overfull \vbox (16.00737pt too high) detected at line 99
+ []
+
+[12
+
+ <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
+essing/images/9intersection.png>])
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
-essing\presentation.toc") [6
+essing\presentation.toc") [13
 
 
 ]
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
 essing\snapshot_model.tex")
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
-essing\presentation.toc") [7
+essing\presentation.toc") [14
 
 
 
 ]
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
 essing\smooth_transitions.tex"
-<images/smooth_transitions_conceptual_neighborhood_3.png, id=103, 256.45813pt x
+<images/smooth_transitions_conceptual_neighborhood_3.png, id=149, 256.45813pt x
  212.795pt>
 File: images/smooth_transitions_conceptual_neighborhood_3.png Graphic file (typ
 e png)
@@ -1148,7 +1208,7 @@ Package pdftex.def Info: images/smooth_transitions_conceptual_neighborhood_3.pn
 g used on input line 41.
 (pdftex.def)             Requested size: 56.9055pt x 47.21442pt.
 
-<images/smooth_transitions_conceptual_neighborhood_1.png, id=105, 255.45438pt x
+<images/smooth_transitions_conceptual_neighborhood_1.png, id=151, 255.45438pt x
  228.35312pt>
 File: images/smooth_transitions_conceptual_neighborhood_1.png Graphic file (typ
 e png)
@@ -1157,7 +1217,7 @@ Package pdftex.def Info: images/smooth_transitions_conceptual_neighborhood_1.pn
 g used on input line 41.
 (pdftex.def)             Requested size: 56.9055pt x 50.86502pt.
 
-<images/smooth_transitions_conceptual_neighborhood_2.png, id=106, 279.0425pt x 
+<images/smooth_transitions_conceptual_neighborhood_2.png, id=152, 279.0425pt x 
 250.9375pt>
 File: images/smooth_transitions_conceptual_neighborhood_2.png Graphic file (typ
 e png)
@@ -1166,7 +1226,7 @@ Package pdftex.def Info: images/smooth_transitions_conceptual_neighborhood_2.pn
 g used on input line 41.
 (pdftex.def)             Requested size: 56.9055pt x 51.17448pt.
 
-[8
+[15
 
 
  <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
@@ -1174,30 +1234,30 @@ essing/images/smooth_transitions_conceptual_neighborhood_3.png> <C:/Users/Genie
 ass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProcessing/images/sm
 ooth_transitions_conceptual_neighborhood_1.png> <C:/Users/Genieass/Desktop/Acad
 s/Semester 1/Knowledge Processing/KnowledgeProcessing/images/smooth_transitions
-_conceptual_neighborhood_2.png>] [9
+_conceptual_neighborhood_2.png>] [16
 
-] [10
+] [17
 
 ]
-<images/smooth_transitions_example_a.png, id=130, 978.65625pt x 336.50719pt>
+<images/smooth_transitions_example_a.png, id=173, 978.65625pt x 336.50719pt>
 File: images/smooth_transitions_example_a.png Graphic file (type png)
 
 <use images/smooth_transitions_example_a.png>
 Package pdftex.def Info: images/smooth_transitions_example_a.png used on input 
 line 101.
 (pdftex.def)             Requested size: 307.28987pt x 105.66142pt.
- [11
+ [18
 
  <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
 essing/images/smooth_transitions_example_a.png>]
-<images/smooth_transitions_example_b.png, id=138, 956.07187pt x 296.60812pt>
+<images/smooth_transitions_example_b.png, id=181, 956.07187pt x 296.60812pt>
 File: images/smooth_transitions_example_b.png Graphic file (type png)
 
 <use images/smooth_transitions_example_b.png>
 Package pdftex.def Info: images/smooth_transitions_example_b.png used on input 
 line 120.
 (pdftex.def)             Requested size: 307.28987pt x 95.33292pt.
- [12
+ [19
 
  <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
 essing/images/smooth_transitions_example_b.png>]
@@ -1207,14 +1267,14 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 137.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 137.
 
-<images/smooth_transitions_example_c.png, id=145, 983.92593pt x 285.31593pt>
+<images/smooth_transitions_example_c.png, id=189, 983.92593pt x 285.31593pt>
 File: images/smooth_transitions_example_c.png Graphic file (type png)
 
 <use images/smooth_transitions_example_c.png>
 Package pdftex.def Info: images/smooth_transitions_example_c.png used on input 
 line 137.
 (pdftex.def)             Requested size: 307.28987pt x 89.1044pt.
- [13
+ [20
 
  <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
 essing/images/smooth_transitions_example_c.png>]
@@ -1233,14 +1293,14 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 156.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 156.
 
-<images/smooth_transitions_example_d.png, id=154, 981.6675pt x 285.31593pt>
+<images/smooth_transitions_example_d.png, id=196, 981.6675pt x 285.31593pt>
 File: images/smooth_transitions_example_d.png Graphic file (type png)
 
 <use images/smooth_transitions_example_d.png>
 Package pdftex.def Info: images/smooth_transitions_example_d.png used on input 
 line 156.
 (pdftex.def)             Requested size: 307.28987pt x 89.30902pt.
- [14
+ [21
 
  <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
 essing/images/smooth_transitions_example_d.png>]
@@ -1268,21 +1328,21 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 174.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 174.
 
-[15
+[22
 
 ]
-<images/smooth_transitions_neighborhood_graph.png, id=166, 973.38657pt x 566.86
+<images/smooth_transitions_neighborhood_graph.png, id=208, 973.38657pt x 566.86
 781pt>
 File: images/smooth_transitions_neighborhood_graph.png Graphic file (type png)
  <use images/smooth_transitions_neighborhood_graph.png>
 Package pdftex.def Info: images/smooth_transitions_neighborhood_graph.png used 
 on input line 181.
 (pdftex.def)             Requested size: 307.28987pt x 178.95354pt.
- [16
+ [23
 
  <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
 essing/images/smooth_transitions_neighborhood_graph.png>]
-<images/snapshot_model_neighborhood_graph_simple.png, id=173, 549.55313pt x 436
+<images/snapshot_model_neighborhood_graph_simple.png, id=215, 549.55313pt x 436
 .12938pt> <use images/snapshot_model_neighborhood_graph_simple.png>
 <use images/smooth_transitions_neighborhood_graph.png>
 <use images/snapshot_model_neighborhood_graph_simple.png>
@@ -1309,27 +1369,27 @@ Overfull \hbox (5.85287pt too wide) in paragraph at lines 200--200
 []|[]| 
  []
 
-[17
+[24
 
  <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
 essing/images/snapshot_model_neighborhood_graph_simple.png>])
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
-essing\presentation.toc") [18
+essing\presentation.toc") [25
 
 
 ]
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
-essing\evaluation.tex" [19
+essing\evaluation.tex" [26
 
 
 ]
-<images/evaluation_setup.png, id=196, 636.3775pt x 300.62312pt>
+<images/evaluation_setup.png, id=238, 636.3775pt x 300.62312pt>
 File: images/evaluation_setup.png Graphic file (type png)
 
 <use images/evaluation_setup.png>
 Package pdftex.def Info: images/evaluation_setup.png used on input line 46.
 (pdftex.def)             Requested size: 307.28987pt x 145.15984pt.
- [20
+ [27
 
  <C:/Users/Genieass/Desktop/Acads/Semester 1/Knowledge Processing/KnowledgeProc
 essing/images/evaluation_setup.png>]
@@ -1338,34 +1398,34 @@ File: images/evaluation_setup.png Graphic file (type png)
 <use images/evaluation_setup.png>
 Package pdftex.def Info: images/evaluation_setup.png used on input line 46.
 (pdftex.def)             Requested size: 307.28987pt x 145.15984pt.
- [21
+ [28
 
-] [22
+] [29
 
-] [23
+] [30
 
 ]
 Overfull \hbox (1.24803pt too wide) in paragraph at lines 91--91
  [] 
  []
 
-[24
+[31
 
 ])
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
-essing\presentation.toc") [25
+essing\presentation.toc") [32
 
 
 ]
 ("C:\Users\Genieass\Desktop\Acads\Semester 1\Knowledge Processing\KnowledgeProc
-essing\summary.tex" [26
+essing\summary.tex" [33
 
 
 ])
 Overfull \vbox (6.37288pt too high) detected at line 88
  []
 
-[27
+[34
 
 
 ]
@@ -1401,27 +1461,28 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 90.
  ) 
 Here is how much of TeX's memory you used:
- 20374 strings out of 493921
- 413170 string characters out of 3144866
- 457245 words of memory out of 3000000
- 23074 multiletter control sequences out of 15000+200000
+ 20427 strings out of 493921
+ 414088 string characters out of 3144866
+ 457251 words of memory out of 3000000
+ 23109 multiletter control sequences out of 15000+200000
  17650 words of font info for 64 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  56i,17n,59p,619b,1142s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Program
- Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on presentation.pdf (27 pages, 447979 bytes).
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on presentation.pdf (34 pages, 514778 bytes).
 PDF statistics:
- 298 PDF objects out of 1000 (max. 8388607)
- 61 named destinations out of 1000 (max. 500000)
- 146 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 345 PDF objects out of 1000 (max. 8388607)
+ 75 named destinations out of 1000 (max. 500000)
+ 166 words of extra memory for PDF output out of 10000 (max. 10000000)
 
